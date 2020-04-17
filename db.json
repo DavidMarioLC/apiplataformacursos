@@ -1,0 +1,29 @@
+  
+  {
+        id: 1,
+        title: 'Aprende exportar para china desde cero',
+        img: 'https://res.cloudinary.com/dbgne2jju/image/upload/v1587055477/test/1_cctplt.png',
+        price: 100,
+        teacher: 'Zegel IPAE'
+    },
+    {
+        id: 2,
+        title: 'Seguridad en el trabajo para empresas',
+        img: 'https://res.cloudinary.com/dbgne2jju/image/upload/v1587055449/test/2_yyucit.png',
+        price: 100,
+        teacher: 'Luis Puppi'
+    },
+    {
+        id: 3,
+        title: 'Manejo del estres y la ansiedad',
+        img: 'https://res.cloudinary.com/dbgne2jju/image/upload/v1587055419/test/3_qh3plp.png',
+        price: 100,
+        teacher: 'Verona TREC   '
+    },
+    {
+        id: 4,
+        title: 'Resiliencia empresarial de ayer y hoy',
+        img: 'https://res.cloudinary.com/dbgne2jju/image/upload/v1587055467/test/4_zp7icv.png',
+        price: 100,
+        teacher: 'Luigi Tataje'
+    }
