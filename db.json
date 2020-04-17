@@ -1,7 +1,7 @@
   [
   {
-        id: 1,
-        title: 'Aprende exportar para china desde cero',
+        "id": 1,
+        "title": 'Aprende exportar para china desde cero',
         img: 'https://res.cloudinary.com/dbgne2jju/image/upload/v1587055477/test/1_cctplt.png',
         price: 100,
         teacher: 'Zegel IPAE'
